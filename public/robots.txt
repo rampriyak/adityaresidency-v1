@@ -1,0 +1,7 @@
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
+User-agent: *
+Allow: /
+
+Sitemap: https://truthful-few-capybara-fua9on.teleporthq.app/sitemap.xml
